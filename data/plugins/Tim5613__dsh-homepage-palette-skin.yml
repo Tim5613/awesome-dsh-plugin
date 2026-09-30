@@ -1,0 +1,6 @@
+url: https://github.com/Tim5613/dsh-homepage-palette-skin
+name: Tim5613/dsh-homepage-palette-skin
+category: theme
+description:
+  en: Repaints the DSH sidebar as a fixed deep-blue gradient panel with light text, using colors sampled from the official DeepSeek Harness homepage preview, while the content area keeps following the light/dark preference.
+  zh: 把 DSH 侧边栏改为固定深蓝渐变面板并配浅色文字（配色取自 DeepSeek Harness 官网预览图的逐像素采样），右侧内容区仍跟随浅色/深色。

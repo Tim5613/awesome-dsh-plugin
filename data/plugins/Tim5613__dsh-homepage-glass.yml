@@ -2,5 +2,5 @@ url: https://github.com/Tim5613/dsh-homepage-glass
 name: Tim5613/dsh-homepage-glass
 category: theme
 description:
-  en: A DSH skin with a dark blue gradient sidebar, and deepseek.com's slowly drifting blue as an option behind the light theme, drawn by the site's own WebGL shader.
-  zh: DSH 皮肤，深蓝渐变侧边栏，浅色模式底下可以铺上官网首页那层缓慢流动的蓝（跑的是官网自己的 WebGL 着色器）。
+  en: A DSH skin with a macOS-style deep blue gradient sidebar, plus the official site's slowly drifting blue behind the light theme.
+  zh: DSH 皮肤，macOS 风格的深蓝渐变侧边栏 + 官网首页那层缓慢流动的蓝底（浅色模式）。
